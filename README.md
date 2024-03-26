@@ -29,7 +29,7 @@ Thank you for using Textion Text Summarizer (the "Extension"). This Privacy Poli
 
 ## Contact Us
 
-- If you have any questions or concerns about this Privacy Policy or our practices, please contact us at [Contact](bitsgraph@gmail.com).
+- If you have any questions or concerns about this Privacy Policy or our practices, please contact us at bitsgraph@gmail.com.
 
 By using the Textion Text Summarizer Extension, you agree to the terms of this Privacy Policy. If you do not agree with these terms, please do not use the Extension.
 
